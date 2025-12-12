@@ -1,4 +1,5 @@
 📊 Digital Behavior & Mental Well-Being Analysis
+
 An end-to-end data analytics project exploring the impact of screen time, lifestyle habits, and social media behavior on mental well-being using SQL and Power BI.
 
 This project is something I personally enjoyed doing because it connects two areas we all deal with every day: technology and mental health.
